@@ -1218,6 +1218,7 @@ a.collapsible:focus {
 
 .resources {
   display: flex;
+  flex-wrap: wrap;
   align-items: flex-start;
   justify-content: space-between;
   margin: 3rem 0 1rem;
