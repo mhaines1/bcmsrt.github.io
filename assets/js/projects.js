@@ -1,5 +1,13 @@
 export const currentProjects = [
   {
+    name: "Canadian Blood Services – 1000 Donors Campaign",
+    location: "Vancouver BC and Remote Friendly",
+    description: "As the COVID-19 pandemic continues to unfold, the need for blood remains especially when we reach a time when life returns to normalcy. The objective of this campaign is to recruit 1000 donors (sign-ups and appointment) through a physically distanced manner and clarify the donor eligibility in the context of COVID-19. This campaign will involve the creation of an infographics, recruitment effort through social media and a video production that we hope to present during National Donor Week.",
+    studentRole: "The students will work together to refine the campaign and implement it during May. Students with experience in social media campaign, graphics design and video editing are preferred.",
+    numStudents: "Actively Recruiting.",
+    notes: "If you are interested, please contact regan_mah@alumni.ubc.ca or at 780-246-7890."
+  },
+  {
     name: "Contact Tracing with Alberta Public Health",
     location: "Calgary AB and Remote Friendly",
     description: "Medical students, residents (public health and off service), nurses, nursing students and physicians in both Calgary and Edmonton are all working together to drastically scale up provincial contact tracing efforts. This work is done both in person at the Sheldon Chumir Center in Calgary as well as remotely from home.",
