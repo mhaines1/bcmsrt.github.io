@@ -1,11 +1,19 @@
 export const currentProjects = [
   {
+    name: "Victoria Inner City COVID Response",
+    location: "Victoria - Some Remote Work",
+    description: "Victoria Inner City Covid Response (VICCR) is looking for volunteer to fill roles ranging from administrative positions to one off volunteer tasks. Range of opportunities available, most of which can be done remotely. Specifically, we are currently recruiting people to help set/distribute phones and tablets which have been donated to provide to Inner City populations in Victoria. All tasks will be done following appropriate distancing protocol. Other positions may involve taking general/subcommittee minutes and updated Trello boards accordingly, or conpleting one-off literature reviews on relevant topics to inform the teams practice.",
+    studentRole: "Time commitment ranges from 2-6 hours per week. The opportunity is unpaid and can be done in isolation.",
+    numStudents: "Ever evolving.",
+    notes: "If you are interested, please contact Emma Woo, Emma.k.woo@gmail.com, 6043285950. More information can be found at https://viccrcentral.wixsite.com/testsite."
+  },
+  {
     name: "Canadian Blood Services – 1000 Donors Campaign",
     location: "Vancouver BC and Remote Friendly",
     description: "As the COVID-19 pandemic continues to unfold, the need for blood remains especially when we reach a time when life returns to normalcy. The objective of this campaign is to recruit 1000 donors (sign-ups and appointment) through a physically distanced manner and clarify the donor eligibility in the context of COVID-19. This campaign will involve the creation of an infographics, recruitment effort through social media and a video production that we hope to present during National Donor Week.",
     studentRole: "The students will work together to refine the campaign and implement it during May. Students with experience in social media campaign, graphics design and video editing are preferred.",
     numStudents: "Actively Recruiting.",
-    notes: "If you are interested, please contact regan_mah@alumni.ubc.ca or at 780-246-7890."
+    notes: "If you are interested, please fill out the BC Google Form."
   },
   {
     name: "Contact Tracing with Alberta Public Health",
@@ -15,14 +23,6 @@ export const currentProjects = [
     numStudents: "~150 in Calgary, another 150 or so in Edmonton.",
     restrictions: "Only students with some clerkship experience are eligible to participate (i.e. Classes of 2020 and 2021).",
     notes: "With our 2020’s starting to move away for residency and our 2021’s now engaged in mandatory online learning, we will soon be in desperate need of more volunteers! Please reach out to Steven.lu1@ucalgary.ca to get involved!"
-  },
-  {
-    name: "Connecting with Compassion",
-    location: "Remote Friendly",
-    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased 50 iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the first phase of this endeavour.",
-    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
-    numStudents: "25 students total, with 10 reserved for students with conversational fluency in Mandarin or Cantonese to best serve our older adults at MSJ.",
-    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English."
   },
   {  
     name: "RISE (Rural & Isolated Support Endeavor)",
@@ -82,6 +82,14 @@ export const currentProjects = [
     numStudents: "Actively Recruiting",
     restrictions: "Must be Class of 2020, 2021, or 2022 at the Max Rady College of Medicine. Must complete a mandatory training session.",
     notes: "Training for this position will last around 3 hours. This opportunity MAY also count for academic credit in the future (this is currently in the works). If you have any questions or want to get involved, please contact medcontacttracing@gmail.com."
+  },
+  {
+    name: "Connecting with Compassion",
+    location: "Remote Friendly",
+    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased 50 iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the first phase of this endeavour.",
+    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
+    numStudents: "25 students total, with 10 reserved for students with conversational fluency in Mandarin or Cantonese to best serve our older adults at MSJ.",
+    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English."
   },
 ]
 
