@@ -266,15 +266,6 @@ export const sustainingProjects = [
     notes: "Currently connected to SafeCareBC, VCH and other hospitals across Canada\nDistributed sites are starting to work on the same process; a team has been established in each site.\nIn the midst of social and news media effort \nWe are actively outreaching organizations via phone and email to recruit donations, and offering pick-up services to certain donors."
   },
   {
-    name: "BCCH Healthy Minds Centre: Virtual Care Support",
-    location: "Remote Friendly",
-    description: "The Healthy Minds Centre at BCCH would like to expand telemedicine to support patients across the province. Currently BCCH tech support is overwhelmed and cannot assist with this opportunity.",
-    studentRole: "To provide technical support for physicians using Powerchart and Zoom. Answer phone calls during scheduled times. Possible other roles could include the creation of FAQ documents and how to guides for these programs. Unpaid. Current plan is for one 4hour shift/week.",
-    numStudents: "5 students",
-    restrictions: "Years 3 and 4 only",
-    notes: " Prior PowerChart experience required, experience with zoom beneficial."
-  },
-  {
     name: "Social Media Communications and Campaigns",
     location: "Remote Friendly",
     description: "Synthesizing and managing content that is to be communicated through Twitter, Facebook, and Instagram accounts pertaining to the WE CAN COVID-19 Medical Student Response team. Content will focus on highlighting various projects and identifying their current needs to attract community support and awareness. As well, reaching out to various news outlets to write about and promote projects that benefit from increased public awareness ex PPE donation. Currently we are recruiting for news media outreach and contact.",
