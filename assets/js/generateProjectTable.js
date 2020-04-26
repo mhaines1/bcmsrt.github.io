@@ -108,7 +108,11 @@ function projectHtml(project, signUp=false) {
     signUpButtonElem.setAttribute("id", "email-submit-btn")
     signUpButtonElem.setAttribute("type", "button")
     signUpButtonElem.setAttribute("value", "Volunteer")
-    signUpButtonElem.setAttribute("onclick", "window.open('/select-region-volunteer', '_self')")
+    if (project.link === undefined) {
+      signUpButtonElem.setAttribute("onclick", "window.open('/select-region-volunteer', '_self')")
+    } else {
+      signUpButtonElem.setAttribute("onclick", `window.open('${project.link}')`)
+    }
     projectInfoElem.appendChild(signUpButtonContainerElem)
   }
 

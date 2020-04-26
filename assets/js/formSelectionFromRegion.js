@@ -45,7 +45,11 @@ function handleRegionClick(region) {
   } else {
     missingProvinceElem.style.display = 'none'
     if (typeof(links[region]) === "string") {
-      window.open(links[region], "_blank")
+      if (region === "Manitoba") {
+        window.open("https://docs.google.com/spreadsheets/d/1rEO025PYoMnbMTHIHvr0bMB66Ba3P_4Dxlpj_cpm9Pc/edit#gid=0", "_blank")
+      } else {
+        window.open(links[region], "_blank")
+      }
     } else {
       mapElem.style.display = 'none'
       provinceSelectionElem.style.display = 'flex'
