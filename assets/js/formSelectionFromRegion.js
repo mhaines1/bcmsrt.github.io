@@ -26,7 +26,7 @@ const volunteerIntakeLinks = {
     "University of Alberta": "https://forms.gle/jcT5hoUPhYQETwha8",
   },
   "Saskatchewan": "https://forms.gle/MhzH9fMQVg4SW7nm7",
-  "Manitoba": "https://forms.gle/CbYqpDYQvonF7VqQ9",
+  "Manitoba": "https://docs.google.com/spreadsheets/d/1rEO025PYoMnbMTHIHvr0bMB66Ba3P_4Dxlpj_cpm9Pc/edit#gid=0",
 }
 
 const mapElem = document.getElementById("province-map")
@@ -45,11 +45,7 @@ function handleRegionClick(region) {
   } else {
     missingProvinceElem.style.display = 'none'
     if (typeof(links[region]) === "string") {
-      if (region === "Manitoba") {
-        window.open("https://docs.google.com/spreadsheets/d/1rEO025PYoMnbMTHIHvr0bMB66Ba3P_4Dxlpj_cpm9Pc/edit#gid=0", "_blank")
-      } else {
-        window.open(links[region], "_blank")
-      }
+      window.open(links[region], "_blank")
     } else {
       mapElem.style.display = 'none'
       provinceSelectionElem.style.display = 'flex'
