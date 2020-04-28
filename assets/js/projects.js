@@ -1,4 +1,12 @@
 export const currentProjects = [
+    {
+    name: "BCCDC COVID-19 Testing Phoneline",
+    location: "Vancouver, BC",
+    description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
+    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protcols.",
+    numStudents: "6-10 students.",
+    notes: "The BCCDC would prefer if students have an active PHSA account to use their EMR. Please indicate in your form if you have a PHSA account. Thank you!",
+  },
   {
     name: "BCCH Healthy Minds Centre: Virtual care support",
     location: "Based in Vancouver but all work remote",
@@ -139,13 +147,6 @@ export const sustainingProjects = [
     numStudents: "Currently at capacity with 10 Year 3 and 4 volunteers.",
     restrictions: "Year 3 or 4 only, CareConnect training required.",
     notes: "601 W Broadway. Currently covering VGH, VCH community testing, RH, and some rural sites. Some sites may transition to texting. Expect student role to evolve over time. "
-  },
-  {
-    name: "BCCDC Contact Tracing",
-    location: "Vancouver, BC",
-    description: "Contacting healthcare workers with negative COVID-19 results.",
-    studentRole: "Calling/texting a list of contacts with negative COVID results.",
-    numStudents: "8. Currently at capacity.",
   },
   {
     name: "VGA Radiology Opportunity",
