@@ -93,14 +93,14 @@ export const currentProjects = [
     restrictions: "Must be Class of 2020, 2021, or 2022 at the Max Rady College of Medicine. Must complete a mandatory training session.",
     notes: "Training for this position will last around 3 hours. This opportunity MAY also count for academic credit in the future (this is currently in the works).\n If you have any questions or want to get involved, please contact medcontacttracing@gmail.com."
   },
-   {
+  {
     name: "MB Aboriginal Health and Wellness Center",
     location: "Winnipeg MB",
     description: "The Aboriginal Health and Wellness Center is in need of volunteers as they open up a community screening site! Instead of drop-in volunteers, they hope for a fewer number of committed students to reduce the time spent re-training, etc.",
     studentRole: "The Community testing site at Thunderbird House (715 Main) needs a screener, traffic control, room assistants, and skaabe (general helpers).\n Pre-screening staff and personnel are also needed at Neeginan Center (171 Higgins).",
     notes: "If interested, please email directorprimarycare@ahwc.ca",
   }, 
-    {
+  {
     name: "MB Hospital Screening",
     location: "Winnipeg MB",
     description: "St. Boniface and Grace Hospital are in need of volunteers to help screen visitors at the various entry sites.",
@@ -119,7 +119,6 @@ export const currentProjects = [
     notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English.",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
   },
-
 ]
 
 export const futureProjects = [
