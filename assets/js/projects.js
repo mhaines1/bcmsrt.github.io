@@ -1,4 +1,28 @@
 export const currentProjects = [
+    {
+    name: "BCCDC COVID-19 Testing Phoneline",
+    location: "Vancouver, BC",
+    description: "Answering/making calls regarding testing results and logging them into their EMR-type system; Since the changes to the testing strategy, call volumes have increased.",
+    studentRole: "Calling/texting a list of contacts with negative COVID results. Unpaid, hoping for students to fill 2 8-hour shifts/week. Located at the BCCDC office near VGH, office is compliant with all social distancing protcols.",
+    numStudents: "6-10 students.",
+    notes: "The BCCDC would prefer if students have an active PHSA account to use their EMR. Please indicate in your form if you have a PHSA account. Thank you!",
+  },
+  {
+    name: "Community Supports for Patients with Disabilities",
+    location: "Vancouver and Remote Friendly",
+    description: "The Physical Medicine and Rehabilitation team at GF Strong have noted a gap in community services given the COVID-19 restrictions that is impacting rehab inpatients nearing discharge. They would like a small team of students to compile specific resources within each Health Authority to support people with brain injury and other conditions relevant to rehab.",
+    studentRole: "Looking for students in any year willing to spend 8-10 hours/week working to create a collection of resources for patients. Opportunity is unpaid and can be remote.",
+    numStudents: "Looking for 1-2 students.",
+  },
+  {
+    name: "Caregiving Cards",
+    location: "Remote",
+    description: "The goal of Caregiving Cards is to increase the morale of healthcare workers by providing them with electronic copies of unique letters and drawings by local elementary school students. We also hope that this opportunity will empower students through their support of healthcare workers. \n For more information: https://docs.google.com/document/d/11Qk-Rm86lRubIa82obZJ9q-p6jMnQFAnj0rlvE6MFfs/edit?usp=sharing.",
+    studentRole: "Contacting different schools and health authorities to see if they would like to participate. Coordinating the collection and distribution between elementary school classes and groups of healthcare workers electronically. Unpaid. 5-10 hours/week.",
+    numStudents: "4 students, open to all years",
+    notes: "Currently started at Lions Gate Hospital in partnership with the North Vancouver School District. Hoping to expand.",
+    link: "https://docs.google.com/document/d/11Qk-Rm86lRubIa82obZJ9q-p6jMnQFAnj0rlvE6MFfs/edit?usp=sharing"
+  },
   {
     name: "BCCH Healthy Minds Centre: Virtual care support",
     location: "Based in Vancouver but all work remote",
@@ -161,13 +185,6 @@ export const sustainingProjects = [
     notes: "601 W Broadway. Currently covering VGH, VCH community testing, RH, and some rural sites. Some sites may transition to texting. Expect student role to evolve over time. "
   },
   {
-    name: "BCCDC Contact Tracing",
-    location: "Vancouver, BC",
-    description: "Contacting healthcare workers with negative COVID-19 results.",
-    studentRole: "Calling/texting a list of contacts with negative COVID results.",
-    numStudents: "8. Currently at capacity.",
-  },
-  {
     name: "VGA Radiology Opportunity",
     location: "Remote Friendly",
     description: "A group of VGH radiologists are hoping to develop an AI model to use CT scans for early detection of COVID-19 and potentially risk stratification purposes in the future. Before this can happen, AI models must be taught how to recognize findings by manual labeling.",
@@ -318,6 +335,14 @@ export const sustainingProjects = [
     numStudents: "2-3",
     restrictions: "Year 3 or 4 preferred.",
     notes: "655 W. 12th Avenue. Contact: William Turner, BCCDC, William.Turner@bccdc.ca, (604) 619-1433. Unpaid."
+  },
+  {
+    name: "BCCH Healthy Minds Centre: Virtual care support",
+    location: "Based in Vancouver but all work remote",
+    description: "The Healthy Minds Centre at BCCH would like to expand telemedicine to support patients across the province. Currently BCCH tech support is overwhelmed and cannot assist with this opportunity.",
+    studentRole: "Role 1: To provide technical support for physicians using Zoom. Possibility to expand to provide technical support to patients to help connect for scheduled online appointments. Answer phone calls and emails during scheduled times. Unpaid. 5-10 hours/week. \n Role 2: Collect existing technical support information and create summaries of this information to be housed on a website. Unpaid. 5-10 hours/week.",
+    numStudents: "2-3 students for each role. Open to all years",
+    notes: "Please indicate if you are interested in role 1, 2 or both. Experience with zoom beneficial for role 1."
   },
 ]
 
