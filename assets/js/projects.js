@@ -1,5 +1,14 @@
 export const currentProjects = [
   {
+    name: "Caregiving Cards",
+    location: "Remote",
+    description: "The goal of Caregiving Cards is to increase the morale of healthcare workers by providing them with electronic copies of unique letters and drawings by local elementary school students. We also hope that this opportunity will empower students through their support of healthcare workers. \n For more information: https://docs.google.com/document/d/11Qk-Rm86lRubIa82obZJ9q-p6jMnQFAnj0rlvE6MFfs/edit?usp=sharing.",
+    studentRole: "Contacting different schools and health authorities to see if they would like to participate. Coordinating the collection and distribution between elementary school classes and groups of healthcare workers electronically. Unpaid. 5-10 hours/week.",
+    numStudents: "4 students, open to all years",
+    notes: "Currently started at Lions Gate Hospital in partnership with the North Vancouver School District. Hoping to expand.",
+    link: "https://docs.google.com/document/d/11Qk-Rm86lRubIa82obZJ9q-p6jMnQFAnj0rlvE6MFfs/edit?usp=sharing"
+  },
+  {
     name: "BCCH Healthy Minds Centre: Virtual care support",
     location: "Based in Vancouver but all work remote",
     description: "The Healthy Minds Centre at BCCH would like to expand telemedicine to support patients across the province. Currently BCCH tech support is overwhelmed and cannot assist with this opportunity.",
