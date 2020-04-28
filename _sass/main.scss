@@ -792,7 +792,7 @@ footer {
       }
 
       p {
-        margin: 1.5rem 0;
+        margin: 2rem 0;
 
         a {
           &:hover,
@@ -862,6 +862,7 @@ footer {
 
         .supporters {
           display: flex;
+          align-items: flex-end;
 
           @media screen and (max-width: $transition-width-mobile) {
             flex-wrap: wrap;
