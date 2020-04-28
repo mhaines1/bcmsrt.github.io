@@ -1,5 +1,12 @@
 export const currentProjects = [
   {
+    name: "Community Supports for Patients with Disabilities",
+    location: "Vancouver and Remote Friendly",
+    description: "The Physical Medicine and Rehabilitation team at GF Strong have noted a gap in community services given the COVID-19 restrictions that is impacting rehab inpatients nearing discharge. They would like a small team of students to compile specific resources within each Health Authority to support people with brain injury and other conditions relevant to rehab.",
+    studentRole: "Looking for students in any year willing to spend 8-10 hours/week working to create a collection of resources for patients. Opportunity is unpaid and can be remote.",
+    numStudents: "Looking for 1-2 students.",
+  },
+  {
     name: "Caregiving Cards",
     location: "Remote",
     description: "The goal of Caregiving Cards is to increase the morale of healthcare workers by providing them with electronic copies of unique letters and drawings by local elementary school students. We also hope that this opportunity will empower students through their support of healthcare workers. \n For more information: https://docs.google.com/document/d/11Qk-Rm86lRubIa82obZJ9q-p6jMnQFAnj0rlvE6MFfs/edit?usp=sharing.",
@@ -99,14 +106,6 @@ export const currentProjects = [
     numStudents: "Actively Recruiting",
     restrictions: "Must be Class of 2020, 2021, or 2022 at the Max Rady College of Medicine. Must complete a mandatory training session.",
     notes: "Training for this position will last around 3 hours. This opportunity MAY also count for academic credit in the future (this is currently in the works). If you have any questions or want to get involved, please contact medcontacttracing@gmail.com."
-  },
-  {
-    name: "Connecting with Compassion",
-    location: "Remote Friendly",
-    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased 50 iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the first phase of this endeavour.",
-    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
-    numStudents: "25 students total, with 10 reserved for students with conversational fluency in Mandarin or Cantonese to best serve our older adults at MSJ.",
-    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English."
   },
 ]
 
@@ -307,6 +306,22 @@ export const sustainingProjects = [
     numStudents: "2-3",
     restrictions: "Year 3 or 4 preferred.",
     notes: "655 W. 12th Avenue. Contact: William Turner, BCCDC, William.Turner@bccdc.ca, (604) 619-1433. Unpaid."
+  },
+  {
+    name: "BCCH Healthy Minds Centre: Virtual care support",
+    location: "Based in Vancouver but all work remote",
+    description: "The Healthy Minds Centre at BCCH would like to expand telemedicine to support patients across the province. Currently BCCH tech support is overwhelmed and cannot assist with this opportunity.",
+    studentRole: "Role 1: To provide technical support for physicians using Zoom. Possibility to expand to provide technical support to patients to help connect for scheduled online appointments. Answer phone calls and emails during scheduled times. Unpaid. 5-10 hours/week. \n Role 2: Collect existing technical support information and create summaries of this information to be housed on a website. Unpaid. 5-10 hours/week.",
+    numStudents: "2-3 students for each role. Open to all years",
+    notes: "Please indicate if you are interested in role 1, 2 or both. Experience with zoom beneficial for role 1."
+  },
+  {
+    name: "Connecting with Compassion",
+    location: "Remote Friendly",
+    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased 50 iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the first phase of this endeavour.",
+    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
+    numStudents: "25 students total, with 10 reserved for students with conversational fluency in Mandarin or Cantonese to best serve our older adults at MSJ.",
+    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English."
   },
 ]
 
