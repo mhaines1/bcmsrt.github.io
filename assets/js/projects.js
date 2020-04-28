@@ -63,7 +63,8 @@ export const currentProjects = [
     studentRole: "Duties for students include providing childcare, pet care, grocery and/or pharmacy runs. Preference and availability can be indicated on the registration form.",
     numStudents: "No cap on students at this moment. Will continue to accept more until needs of Health Care Providers have been met.",
     restrictions: "Must be enrolled at the Max Rady College of Medicine",
-    notes: "If interested, please contact Cole Kubay and Fiona Vickers at MBMed4HCP@gmail.com"
+    notes: "Please contact Cole Kubay and Fiona Vickers at MBMed4HCP@gmail.com for more information.",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSeEf17YdBfMe-kkKOfz587JywkCWYcMFj7SBcwbqHKzwHRtRQ/viewform?fbclid=IwAR2LLjboPSqsU4pXqZoLvj7AADe391cpyzOlCzUd2cTWjZntvmy9ZzsOo3M ",  
   },
   {
     name: "MB Medical Student COVID-19 PPE Initiative",
@@ -80,7 +81,8 @@ export const currentProjects = [
     studentRole: "This initiative partners medical students with seniors in the community to provide regular phone check-ins for social comfort and education regarding COVID-19. Student volunteers will be expected to call their assigned elderly friend at least once weekly for an approximately 20 minute check-in phone call, as well as respond to a volunteer coordinator to track their work and progress.",
     numStudents: "No cap on students at this time.",
     restrictions: "Must be enrolled at the Max Rady College of Medicine",
-    notes: "If interested, please contact Kaleigh Ducas-Mowchun at ssipp.manitoba@gmail.com"
+    notes: "If interested, please contact Kaleigh Ducas-Mowchun at ssipp.manitoba@gmail.com",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
   },
   {
     name: "Contact Tracing with Winnipeg Regional Health Authority",
@@ -89,7 +91,24 @@ export const currentProjects = [
     studentRole: "The job of students will be as Call Centre Agents which entails calling contacts of those testing positive across the province and asking questions from a script (e.g. about symptoms, daily temperature readings, etc.). The contact will then either be advised to stay home and continue self-isolation or will be asked to speak with a Clinical Agent if there are any concerns/need for further management. All students will start out working as a Call Centre Agent but there may be the potential to work as a Clinical Agent in the future under the supervision of a resident or nurse.",
     numStudents: "Actively Recruiting",
     restrictions: "Must be Class of 2020, 2021, or 2022 at the Max Rady College of Medicine. Must complete a mandatory training session.",
-    notes: "Training for this position will last around 3 hours. This opportunity MAY also count for academic credit in the future (this is currently in the works). If you have any questions or want to get involved, please contact medcontacttracing@gmail.com."
+    notes: "Training for this position will last around 3 hours. This opportunity MAY also count for academic credit in the future (this is currently in the works).\n If you have any questions or want to get involved, please contact medcontacttracing@gmail.com."
+  },
+   {
+    name: "MB Aboriginal Health and Wellness Center",
+    location: "Winnipeg MB",
+    description: "The Aboriginal Health and Wellness Center is in need of volunteers as they open up a community screening site! Instead of drop-in volunteers, they hope for a fewer number of committed students to reduce the time spent re-training, etc.",
+    studentRole: "The Community testing site at Thunderbird House (715 Main) needs a screener, traffic control, room assistants, and skaabe (general helpers).\n Pre-screening staff and personnel are also needed at Neeginan Center (171 Higgins).",
+    notes: "If interested, please email directorprimarycare@ahwc.ca",
+  }, 
+    {
+    name: "MB Hospital Screening",
+    location: "Winnipeg MB",
+    description: "St. Boniface and Grace Hospital are in need of volunteers to help screen visitors at the various entry sites.",
+    studentRole: "Students will greet all visitors as they enter the hospital, ask a series of screening questions, and ensure the use of hand sanitizer upon entry to the building. PPE will be provided.",
+    numStudents: "No cap on students at this time.",
+    restrictions: "Must be enrolled in Rady Faculty of Health Sciences",
+    notes: "If you have any questions contact Volunteer Services 204-237-2442 or email sbghvolunteer@sbgh.mb.ca",
+    link: "https://docs.google.com/spreadsheets/d/17w1gTpJmS9-mMS6p8BckKgkZTH_wn3gkAeqWW2yHXAc/edit?fbclid=IwAR0UphKfmLz4BvwMblnutsFpy9OK-6wAYTaC-mvvqC9iUlm9_dPXGsvypFo#gid=184158501",
   },
   {
     name: "Connecting with Compassion",
@@ -97,8 +116,10 @@ export const currentProjects = [
     description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased 50 iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the first phase of this endeavour.",
     studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
     numStudents: "25 students total, with 10 reserved for students with conversational fluency in Mandarin or Cantonese to best serve our older adults at MSJ.",
-    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English."
+    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English.",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
   },
+
 ]
 
 export const futureProjects = [
