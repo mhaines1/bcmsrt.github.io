@@ -7,6 +7,23 @@ export const currentProjects = [
     numStudents: "Looking for 1-2 students.",
   },
   {
+    name: "Caregiving Cards",
+    location: "Remote",
+    description: "The goal of Caregiving Cards is to increase the morale of healthcare workers by providing them with electronic copies of unique letters and drawings by local elementary school students. We also hope that this opportunity will empower students through their support of healthcare workers. \n For more information: https://docs.google.com/document/d/11Qk-Rm86lRubIa82obZJ9q-p6jMnQFAnj0rlvE6MFfs/edit?usp=sharing.",
+    studentRole: "Contacting different schools and health authorities to see if they would like to participate. Coordinating the collection and distribution between elementary school classes and groups of healthcare workers electronically. Unpaid. 5-10 hours/week.",
+    numStudents: "4 students, open to all years",
+    notes: "Currently started at Lions Gate Hospital in partnership with the North Vancouver School District. Hoping to expand.",
+    link: "https://docs.google.com/document/d/11Qk-Rm86lRubIa82obZJ9q-p6jMnQFAnj0rlvE6MFfs/edit?usp=sharing"
+  },
+  {
+    name: "BCCH Healthy Minds Centre: Virtual care support",
+    location: "Based in Vancouver but all work remote",
+    description: "The Healthy Minds Centre at BCCH would like to expand telemedicine to support patients across the province. Currently BCCH tech support is overwhelmed and cannot assist with this opportunity.",
+    studentRole: "Role 1: To provide technical support for physicians using Zoom. Possibility to expand to provide technical support to patients to help connect for scheduled online appointments. Answer phone calls and emails during scheduled times. Unpaid. 5-10 hours/week. \n Role 2: Collect existing technical support information and create summaries of this information to be housed on a website. Unpaid. 5-10 hours/week.",
+    numStudents: "2-3 students for each role. Open to all years",
+    notes: "Please indicate if you are interested in role 1, 2 or both. Experience with zoom beneficial for role 1."
+  },
+  {
     name: "Victoria Inner City COVID Response",
     location: "Victoria - Some Remote Work",
     description: "Victoria Inner City Covid Response (VICCR) is looking for volunteer to fill roles ranging from administrative positions to one off volunteer tasks. Range of opportunities available, most of which can be done remotely. Specifically, we are currently recruiting people to help set/distribute phones and tablets which have been donated to provide to Inner City populations in Victoria. All tasks will be done following appropriate distancing protocol. Other positions may involve taking general/subcommittee minutes and updated Trello boards accordingly, or conpleting one-off literature reviews on relevant topics to inform the teams practice.",
