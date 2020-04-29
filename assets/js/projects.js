@@ -1,4 +1,12 @@
 export const currentProjects = [
+      {
+    name: "Media Team - External Communications ",
+    location: "Remote",
+    description: "We are seeking one addition to the Communications team to help with News media outreach and external communications projects.",
+    studentRole: "This position will involve establishing media partnerships and collaborating with existing MSRT projects to bring exposure to efforts that would benefit from media coverage.",
+    numStudents: "1 student",
+    notes: "Communications experience is an asset, please mention your experience when applying",
+  },
     {
     name: "BCCDC COVID-19 Testing Phoneline",
     location: "Vancouver, BC",
