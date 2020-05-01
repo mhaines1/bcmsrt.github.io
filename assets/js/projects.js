@@ -1,5 +1,5 @@
 export const currentProjects = [
-    {
+  {
     name: "Home-Made PPE Initiative",
     location: "Vancouver, BC",
     description: "The Public Health Agency of Canada has allowed the use of non-medical face masks for the general public, especially in settings where physical distancing can be difficult (eg. Grocery stores, public transit). To alleviate public demand for medical masks, this initiative aims to create and distribute home-made cloth face masks to vulnerable populations, who have additional socio-economic barriers preventing physical distancing. There is also demand for face masks for non-medical support workers for these populations. We are currently working with local tailors/seamstresses, and will be delivering masks to community centres in the Downtown Eastside.",
