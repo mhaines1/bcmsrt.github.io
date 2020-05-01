@@ -1,7 +1,7 @@
 export const currentProjects = [
   {
     name: "BCCDC’s Population and Public Health team - 3 weeks only",
-    location: "BCCDC Vancouver office (655 West 12th Avenue, Vancouver; just east of MSAC",
+    location: "BCCDC Vancouver office (655 West 12th Avenue, Vancouver)",
     description: "A large provincial population health survey has just been approved by Dr. Bonnie Henry to be rolled out early next week. BCCDC is asking for volunteers to take calls from British Columbians who are unable to fill out the survey online. This survey will only be up and running for about 3 weeks, so this is a time-limited opportunity! Hoping to start Monday, May 4th, with online training at 1pm on Sunday, May 3rd. If you are only able to start at a later date, please indicate your earliest available date for online training. They are carefully working to maintain social distancing in the building and office spaces, and ensure there is adequate sanitation of the desks and computers.",
     studentRole: "You would be volunteering on the survey’s phone line, receiving calls from keen BC residents, helping them fill out the survey over the phone and logging their answers into the computer.",
     numStudents: "10 minimum",
