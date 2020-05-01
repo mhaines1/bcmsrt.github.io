@@ -1,5 +1,13 @@
 export const currentProjects = [
   {
+    name: "BCCDC’s Population and Public Health team - 3 weeks only",
+    location: "BCCDC Vancouver office (655 West 12th Avenue, Vancouver; just east of MSAC",
+    description: "A large provincial population health survey has just been approved by Dr. Bonnie Henry to be rolled out early next week. BCCDC is asking for volunteers to take calls from British Columbians who are unable to fill out the survey online. This survey will only be up and running for about 3 weeks, so this is a time-limited opportunity! Hoping to start Monday, May 4th, with online training on Sunday, May 3rd. If you are only able to start at a later date, please indicate your earliest available date for online training. They are carefully working to maintain social distancing in the building and office spaces, and ensure there is adequate sanitation of the desks and computers.",
+    studentRole: "You would be volunteering on the survey’s phone line, receiving calls from keen BC residents, helping them fill out the survey over the phone and logging their answers into the computer.",
+    numStudents: "10 minimum",
+    notes: "8:30am-4:40pm, 3 days/week (weekdays & weekends), for a total of about 3 weeks. This would be on a self-scheduling basis, so you will get to choose which days of the week you want to work, for a total of 24hrs (3 days)/week. \n Please indicate in comments: \n 1) Will you be available any time on Sunday, May 3rd for online training? \n 2) Will you be available to start your first shift on Monday, May 4th? \n 3) If not, when is your earliest available date?"
+  }, 
+  {
     name: "Home-Made PPE Initiative",
     location: "Vancouver, BC",
     description: "The Public Health Agency of Canada has allowed the use of non-medical face masks for the general public, especially in settings where physical distancing can be difficult (eg. Grocery stores, public transit). To alleviate public demand for medical masks, this initiative aims to create and distribute home-made cloth face masks to vulnerable populations, who have additional socio-economic barriers preventing physical distancing. There is also demand for face masks for non-medical support workers for these populations. We are currently working with local tailors/seamstresses, and will be delivering masks to community centres in the Downtown Eastside.",
