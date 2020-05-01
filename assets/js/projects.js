@@ -1,5 +1,13 @@
 export const currentProjects = [
   {
+    name: "Home-Made PPE Initiative",
+    location: "Vancouver, BC",
+    description: "The Public Health Agency of Canada has allowed the use of non-medical face masks for the general public, especially in settings where physical distancing can be difficult (eg. Grocery stores, public transit). To alleviate public demand for medical masks, this initiative aims to create and distribute home-made cloth face masks to vulnerable populations, who have additional socio-economic barriers preventing physical distancing. There is also demand for face masks for non-medical support workers for these populations. We are currently working with local tailors/seamstresses, and will be delivering masks to community centres in the Downtown Eastside.",
+    studentRole: "We are looking for students who are able to deliver materials (fabric, mask materials, completed masks) for us. Deliveries will take place across the greater Vancouver area (North Vancouver, Burnaby, Coquitlam, Richmond), hours are flexible, and an approximate time commitment of 2-5hrs per week is anticipated. Students must have a car.",
+    numStudents: "10 drivers will be needed",
+    notes: "Open to all years, must have car."
+  },
+  {
     name: "Media Team - External Communications ",
     location: "Remote Friendly",
     description: "We are seeking one addition to the Communications team to help with News media outreach and external communications projects.",
@@ -145,7 +153,7 @@ export const sustainingProjects = [
     notes: "601 W Broadway. Currently covering VGH, VCH community testing, RH, and some rural sites. Some sites may transition to texting. Expect student role to evolve over time. "
   },
   {
-    name: "VGA Radiology Opportunity",
+    name: "VGH Radiology Opportunity",
     location: "Remote Friendly",
     description: "A group of VGH radiologists are hoping to develop an AI model to use CT scans for early detection of COVID-19 and potentially risk stratification purposes in the future. Before this can happen, AI models must be taught how to recognize findings by manual labeling.",
     studentRole: "Students would be trained to label lungs on CT scan slices through a website, and then would work on finishing the labeling of the pool of approximately 500 CT scans for AI teaching.",
@@ -261,23 +269,6 @@ export const sustainingProjects = [
     studentRole: "Actively communicating with the other project leads within WE CAN COVID-19 Medical Student Response efforts to remain updated and understand their needs. Collaborate with those leads as well as team members to synthesize Social media posts which highlight the needs of projects and disseminate information as necessary (e.g. infographics or videos produced by the media team). Collaborate with classmates and other groups who have important messages to share related to COVID-19 and discuss these with the team for possible dissemination.",
     numStudents: "3 (2 more needed)",
     notes: "Preference will be given to those with previous communications roles or experience managing organizational social media accounts. Please indicate when applying if you have existing contacts working in news media as this would be helpful for specific positions!"
-  },
-  {
-    name: "Home-Made PPE Initiative",
-    location: "Vancouver, BC",
-    description: "The Public Health Agency of Canada has allowed the use of non-medical face masks for the general public, especially in settings where social distancing can be difficult (eg. Grocery stores, public transit). To alleviate public demand for medical masks, this initiative aims to create and distribute home-made cloth face masks to vulnerable populations, who have additional socio-economic barriers preventing social distancing. There is also demand for face masks for non-medical support workers for these populations. We are currently working with local tailors/seamstresses, and have reached out to organizations who can donate fabric and materials.",
-    studentRole: {
-      description: "We are looking for enthusiastic students to fill several key leadership roles:",
-      listItems: [
-        "Communications Director (2 positions): advertise donation and distribution efforts",
-        "Sponsorship Director (2 positions): obtain funding and donations for mask-building materials",
-        "PPE Production Director (1 position): coordinate with tailors/seamstresses/volunteers to produce face masks",
-        "PPE Distribution Director (1 position): coordinate distribution of face masks to public",
-        "We are also taking student volunteers interested in sewing and putting together masks!",
-      ]
-    },
-    numStudents: "6 for above leadership roles, and 10+ volunteers for sewing and assembling masks.",
-    notes: "Preference will be given to students with previous leadership, and public health experience. Experience working with vulnerable populations experience is an asset."
   },
   {
     name: "COVID 3D Printing Rapid Needs Assessment, Validation, and Deployment Team",
