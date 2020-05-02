@@ -1,13 +1,5 @@
 export const currentProjects = [
   {
-    name: "BCCDC’s Population and Public Health team - 3 weeks only",
-    location: "BCCDC Vancouver office (655 West 12th Avenue, Vancouver)",
-    description: "A large provincial population health survey has just been approved by Dr. Bonnie Henry to be rolled out early next week. BCCDC is asking for volunteers to take calls from British Columbians who are unable to fill out the survey online. This survey will only be up and running for about 3 weeks, so this is a time-limited opportunity! Hoping to start Monday, May 4th, with online training at 1pm on Sunday, May 3rd. If you are only able to start at a later date, please indicate your earliest available date for online training. They are carefully working to maintain social distancing in the building and office spaces, and ensure there is adequate sanitation of the desks and computers.",
-    studentRole: "You would be volunteering on the survey’s phone line, receiving calls from keen BC residents, helping them fill out the survey over the phone and logging their answers into the computer.",
-    numStudents: "10 minimum",
-    notes: "8:30am-4:40pm, 3 days/week (weekdays & weekends), for a total of about 3 weeks. This would be on a self-scheduling basis, so you will get to choose which days of the week you want to work, for a total of 24hrs (3 days)/week. \n Please indicate in comments: \n 1) Will you be available at 1pm on Sunday, May 3rd for online training? \n 2) Will you be available to start your first shift on Monday, May 4th? \n 3) If not, when is your earliest available date?"
-  }, 
-  {
     name: "Home-Made PPE Initiative",
     location: "Vancouver, BC",
     description: "The Public Health Agency of Canada has allowed the use of non-medical face masks for the general public, especially in settings where physical distancing can be difficult (eg. Grocery stores, public transit). To alleviate public demand for medical masks, this initiative aims to create and distribute home-made cloth face masks to vulnerable populations, who have additional socio-economic barriers preventing physical distancing. There is also demand for face masks for non-medical support workers for these populations. We are currently working with local tailors/seamstresses, and will be delivering masks to community centres in the Downtown Eastside.",
@@ -109,15 +101,6 @@ export const currentProjects = [
     restrictions: "Must be enrolled in Rady Faculty of Health Sciences",
     notes: "If you have any questions contact Volunteer Services 204-237-2442 or email sbghvolunteer@sbgh.mb.ca",
     link: "https://docs.google.com/spreadsheets/d/17w1gTpJmS9-mMS6p8BckKgkZTH_wn3gkAeqWW2yHXAc/edit?fbclid=IwAR0UphKfmLz4BvwMblnutsFpy9OK-6wAYTaC-mvvqC9iUlm9_dPXGsvypFo#gid=184158501",
-  },
-  {
-    name: "Connecting with Compassion",
-    location: "Remote Friendly",
-    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased 50 iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the first phase of this endeavour.",
-    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
-    numStudents: "25 students total, with 10 reserved for students with conversational fluency in Mandarin or Cantonese to best serve our older adults at MSJ.",
-    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English.",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
   },
 ]
 
@@ -349,6 +332,23 @@ export const sustainingProjects = [
     studentRole: "The students will work together to refine the campaign and implement it during May. Students with experience in social media campaign, graphics design and video editing are preferred.",
     numStudents: "Actively Recruiting.",
     notes: "If you are interested, please fill out the BC Google Form."
+  },
+  {
+    name: "BCCDC’s Population and Public Health team - 3 weeks only",
+    location: "BCCDC Vancouver office (655 West 12th Avenue, Vancouver)",
+    description: "A large provincial population health survey has just been approved by Dr. Bonnie Henry to be rolled out early next week. BCCDC is asking for volunteers to take calls from British Columbians who are unable to fill out the survey online. This survey will only be up and running for about 3 weeks, so this is a time-limited opportunity! Hoping to start Monday, May 4th, with online training at 1pm on Sunday, May 3rd. If you are only able to start at a later date, please indicate your earliest available date for online training. They are carefully working to maintain social distancing in the building and office spaces, and ensure there is adequate sanitation of the desks and computers.",
+    studentRole: "You would be volunteering on the survey’s phone line, receiving calls from keen BC residents, helping them fill out the survey over the phone and logging their answers into the computer.",
+    numStudents: "10 minimum",
+    notes: "8:30am-4:40pm, 3 days/week (weekdays & weekends), for a total of about 3 weeks. This would be on a self-scheduling basis, so you will get to choose which days of the week you want to work, for a total of 24hrs (3 days)/week. \n Please indicate in comments: \n 1) Will you be available at 1pm on Sunday, May 3rd for online training? \n 2) Will you be available to start your first shift on Monday, May 4th? \n 3) If not, when is your earliest available date?"
+  }, 
+  {
+    name: "Connecting with Compassion",
+    location: "Remote Friendly",
+    description: "Social distancing during the COVID-19 pandemic is critical for public health, yet it creates a conundrum for frail and vulnerable older adults residing in Long-Term Care (LTC) homes. Residents often rely on visits from family and friends to prevent loneliness, boredom and social isolation. The challenge is even greater for seniors with cognitive impairment who may not fully understand the rationale for why family members are no longer visiting them. There is an urgent need to bridge the communication gap created by social distancing. Technology may be one of the ways to connect family members with long-term care residents, and thus prevent social isolation. We have purchased 50 iPads with data capability for distribution at Mount St. Joseph LTC and UBC hospital for the first phase of this endeavour.",
+    studentRole: "The student will connect with a LTC resident via Zoom/Facetime/videoconference once per week at a regular time. The primary purpose will be to provide social connection and conversation for the seniors. Anticipated time commitment will be 2 hours/week. Unpaid.",
+    numStudents: "25 students total, with 10 reserved for students with conversational fluency in Mandarin or Cantonese to best serve our older adults at MSJ.",
+    notes: "Please indicate on your Google Form if you have conversational fluency in a language other than English.",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSemEkxc82daJryCL-uuuZR7YB5uSefU4L5weKnnfbc48Ral3A/viewform",
   },
 ]
 
