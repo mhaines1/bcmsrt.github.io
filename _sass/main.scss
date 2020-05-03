@@ -383,13 +383,14 @@ header {
             transition: visibility 0.25s, opacity 0.25s ease-in;
           }
 
-          a.nav-item {
+          .nav-item {
             font-family: 'Roboto', sans-serif;
             font-weight: 400;
             text-align: center;
             text-decoration: none;
             padding: 1em 0.5em;
             font-size: 1.3rem;
+            position: relative;
 
             @media screen and (max-width: $transition-width-largest) {
               font-size: 1rem;
@@ -403,6 +404,80 @@ header {
               font-size: 1rem;
               padding: 0.5em 0;
               width: 100%;
+            }
+          }
+
+          #physicians-dropdown:hover .physician-dropdown-items,
+          #everyone-dropdown:hover .everyone-dropdown-items {
+            display: block;
+
+            @media screen and (max-width: $transition-width-mobile) {
+              display: none;
+            }
+          }
+
+          .nav-dropdown {
+            position: absolute;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+            text-align: left;
+
+            a {
+              color: #474747;
+              display: inline-block;
+              width: 100%;
+
+              &:hover,
+              &:focus,
+              &:active {
+                color: $ochre-yellow;
+              }
+            }
+
+            .subdropdown-icon {
+              position: absolute;
+              top: -0.9em;
+              transform: rotate(180deg);
+              max-width: 1.5em;
+            }
+
+            ul.physician-dropdown-items,
+            ul.everyone-dropdown-items {
+              display: none;
+              background-color: $light-grey;
+              position: absolute;
+              width: 350px;
+              padding: 1em 0.5em;
+              font-size: 1.3rem;
+
+              @media screen and (max-width: $transition-width-largest) {
+                font-size: 1rem;
+                width: 300px;
+              }
+
+              @media screen and (max-width: $transition-width-large) {
+                font-size: 0.75rem;
+                width: 220px;
+              }
+
+              li {
+                width: 100%;
+                list-style: none;
+                padding: 0.8em;
+                margin: 0;
+              }
+            }
+
+            ul.everyone-dropdown-items {
+              width: 320px;
+
+              @media screen and (max-width: $transition-width-largest) {
+                width: 250px;
+              }
+
+              @media screen and (max-width: $transition-width-large) {
+                width: 190px;
+              }
             }
           }
         }
