@@ -1277,6 +1277,10 @@ a.collapsible:focus {
       margin: 1em;
     }
 
+    hr {
+      margin: 0;
+    }
+
     h1 {
       font-size: 1.5rem;
     }
@@ -1291,6 +1295,7 @@ a.collapsible:focus {
 
     ul li p {
       font-size: 1.3rem;
+      line-height: 2.3rem;
     }
   }
 
@@ -1397,6 +1402,10 @@ a.collapsible:focus {
   .resource {
     width: 45%;
     margin: 2rem 0;
+
+    p {
+      font-size: 1.2rem;
+    }
 
     @media screen and (max-width: $transition-width-mobile) {
       width: 95%;
