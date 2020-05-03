@@ -1287,6 +1287,10 @@ a.collapsible:focus {
       font-weight: 300;
       line-height: 1.5em;
     }
+
+    ul li p {
+      font-size: 1.3rem;
+    }
   }
 
   .flex-end {
@@ -1485,4 +1489,79 @@ a.collapsible:focus {
 
 .contact {
   margin-top: 3rem;
+}
+
+.ppe-description,
+.ppe-more-info {
+  font-size: 1.3rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+
+.ppe-more-info {
+  margin: 0 auto 2rem;
+  width: 50%;
+  font-size: 1.5rem;
+
+  @media screen and (max-width: $transition-width-largest) {
+    font-size: 1.3rem;
+  }
+
+  @media screen and (max-width: $transition-width-mobile) {
+    width: 90%;
+  }
+
+  p {
+    margin: 0.3em 0;
+  }
+
+  .ppe-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    @media screen and (max-width: $transition-width-mobile) {
+      justify-content: center;
+    }
+
+    img {
+      max-width: 225px;
+    }
+  }
+
+  .ppe-photo-album {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+
+    @media screen and (max-width: $transition-width-mobile) {
+      justify-content: center;
+    }
+
+    .sign-up-form {
+      margin: 0.3em 0;
+    }
+
+    img {
+      margin: 0 1em;
+    }
+
+    input[type=button] {
+      width: 130px;
+      background-color: white;
+      color: black;
+      padding: 12px 20px;
+
+      @media screen and (max-width: $transition-width-mobile) {
+        margin-top: 0;
+      }
+
+      &:hover {
+        background: $light-blue;
+        color: black;
+      }
+    }
+  }
 }
