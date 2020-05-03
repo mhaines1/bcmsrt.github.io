@@ -942,6 +942,7 @@ footer {
 
         .supporters {
           display: flex;
+          flex-wrap: wrap;
           align-items: flex-end;
 
           @media screen and (max-width: $transition-width-mobile) {
@@ -962,7 +963,7 @@ footer {
 
             p {
               margin: 0.5em;
-              font-size: 0.8rem;
+              font-size: 0.6rem;
             }
           }
         }
