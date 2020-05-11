@@ -1,5 +1,13 @@
 export const currentProjects = [
   {
+    name: "PHSA Infection Prevention and Control Manual Team",
+    location: "Remote",
+    description: "The Provincial Health Services Association has requested a team of medical students to assist with updating a key Infection Prevention and Control Manual. Students will be responsible for updating various documents though conducting literature reviews. This is a great opportunity for students interested in policy, public health and infectious diseases",
+    studentRole: "Updating several documents by conducting literature reviews. Time commitment is flexible as PHSA would greatly appreciate any help that they can get.",
+    numStudents: "No maximum.",
+    notes: "Open to all years."
+  },
+  {
     name: "Home-Made PPE Initiative",
     location: "Vancouver, BC",
     description: "The Public Health Agency of Canada has allowed the use of non-medical face masks for the general public, especially in settings where physical distancing can be difficult (eg. Grocery stores, public transit). To alleviate public demand for medical masks, this initiative aims to create and distribute home-made cloth face masks to vulnerable populations, who have additional socio-economic barriers preventing physical distancing. There is also demand for face masks for non-medical support workers for these populations. We are currently working with local tailors/seamstresses, and will be delivering masks to community centres in the Downtown Eastside.",
