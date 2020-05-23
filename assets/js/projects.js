@@ -349,7 +349,7 @@ export const sustainingProjects = [
     numStudents: "1 student",
     notes: "Communications experience is an asset. Please mention your experience when applying.",
   },
-    {
+  {
     name: "Oncology Patient Screening",
     location: "Remote Friendly",
     description: "At BC Cancer, we are looking for the help of medical students to​ screen patients for COVID-19 symptoms via telephone, prior to patients coming to clinic. As you know, cancer patients are especially vulnerable to infection, and we are doing everything possible to prevent the spread of COVID-19. We are looking for two types of roles: 1) coordinators who will help distribute the patients to be screened to other medical students, and help with the screening themselves, and 2) screeners to help screen patients. Commitment for coordinators will be several days a week for several hours. Screeners will volunteer for 1-2 hours per day that they volunteer. Unpaid.",
